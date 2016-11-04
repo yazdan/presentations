@@ -17,6 +17,9 @@
 عباس یزدان‌پناه - blog.abyz.ir
 ------------------------------
 
+.. image:: images/hive_ir_logo.png
+
+
 ----
 
 «۳»
@@ -37,10 +40,14 @@ by Giles Colborne
 blog.abyz.ir
 ============
 
-.. raw:: html
+.. image:: images/hive_ir_logo.png
 
+.. raw:: html
+	
+	<div>
 	<a href="http://twitter.com/yazdanpanaha" class="icon-twitter icon-2x"></a>yazdanpanaha
 	<a href="http://github.com/yazdan" class="icon-octocat icon-2x"></a>yazdan
+	</div>
 
 
 

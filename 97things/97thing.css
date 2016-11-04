@@ -60,3 +60,10 @@ a {
 .hidden {
     display: none;
 }
+
+img {
+    background: #666;
+    border-radius: 10px;
+    width: 150px;
+    height: auto;
+}
