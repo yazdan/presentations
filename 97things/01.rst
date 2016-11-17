@@ -19,6 +19,7 @@
 ------------------------------
 
 .. image:: images/hive_ir_logo.png
+	:width: 150px
 
 
 ----
@@ -65,6 +66,7 @@ Act with Prudence
 by Seb Rose
 ------------
 
+فصل‌هایی که من با اونها آشنا بودم اول ضبط شدن. ازتون دعوت میکنم هر کدوم رو دوست داشتید ضبط کنید.
 
 ----
 
@@ -122,6 +124,7 @@ blog.abyz.ir
 ============
 
 .. image:: images/hive_ir_logo.png
+	:width: 150px
 
 .. raw:: html
 	

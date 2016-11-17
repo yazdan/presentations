@@ -5,6 +5,8 @@ body {
     font-size: 200%;
     text-align: center;
     font-family: IRANSans;
+    background-color: #EFEFEF;
+   
 }
 
 p {
@@ -24,6 +26,7 @@ h1, h2, h3, h4 {
     margin-bottom: 0.3em;
     margin-top: 0.3em;
     direction:rtl;
+    border-radius: 10px;
 }
 
 tt {
@@ -64,6 +67,13 @@ a {
 img {
     background: #666;
     border-radius: 10px;
-    width: 150px;
-    height: auto;
+}
+
+h1 {
+    background-color: #37484f;
+    color:rgb(255,255,255);
+}
+
+h2 {
+    background-color: #05e676;
 }
