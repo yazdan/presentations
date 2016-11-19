@@ -5,7 +5,7 @@ body {
     font-size: 200%;
     text-align: center;
     font-family: IRANSans;
-    background-color: #EFEFEF;
+    background-color: #3C99B6;
    
 }
 
@@ -67,6 +67,9 @@ a {
 img {
     background: #666;
     border-radius: 10px;
+    border-color: #F0EAE6;
+    border-width: 1px;
+    border-style: solid;
 }
 
 h1 {
