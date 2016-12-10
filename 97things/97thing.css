@@ -80,3 +80,16 @@ h1 {
 h2 {
     background-color: #05e676;
 }
+
+.step {
+    width: 1024px;
+}
+
+
+.left-image {
+	position: absolute;
+	top: 170px;
+	left: 10px;
+	
+
+}
