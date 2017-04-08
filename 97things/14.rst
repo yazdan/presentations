@@ -60,6 +60,8 @@ by Mattias Karlsson
 - بررسی‌کنندگان گلوگاه کارایی
 
 .. image:: images/first-code-reveiw.jpg
+	:width: 380px	
+	:class: left-image
 
 ----
 
@@ -73,6 +75,10 @@ by Mattias Karlsson
 - یکی از اعضای تیم بصورت تصادفی
 	- یادگرفتن و فهمیدن کد بجای یافتن ایرادها
 
+.. image:: images/over-the-shoulder-code-review.png
+	:width: 350px	
+	:class: left-image
+
 ----
 
 در حین بررسی
@@ -82,6 +88,9 @@ by Mattias Karlsson
 - قوانین جدید برای بررسی
 	* جلوگیری از بزرگ‌شدن نقش قدیم‌ترها
 	* پخش مسئولیت‌ها بین اعضا مثلا بررسی کارکردها، مستندات
+
+.. image:: images/dilbert-code-review.gif
+
 
 ----
 
@@ -95,6 +104,11 @@ by Mattias Karlsson
 - درگیر کردن باتجربه‌ها
 - بررسی با داشتن code convention راحت‌تر میشود.
 
+
+.. image:: images/what-is-code-review.svg
+	:width: 350px	
+	:class: left-image
+
 ----
 
 مهمترین‌کار
@@ -104,6 +118,10 @@ by Mattias Karlsson
 - لذت‌بردن مهم‌ترین عامل موفقیت
 - بررسی کردن کار آدم‌ها پس آنها را در نظر بگیرید
 - بررسی غیر رسمی به هدف یادگیری
+
+.. image:: images/code-review-2.png
+	:width: 350px	
+
 
 ----
 

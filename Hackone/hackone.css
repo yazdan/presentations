@@ -1,5 +1,5 @@
-@import url(fonts/css/fontiran.css);
-@import url(fonts/css/hugofont.css);
+@import url(../fonts/css/fontiran.css);
+@import url(../fonts/css/hugofont.css);
 
 body {
     font-size: 200%;
