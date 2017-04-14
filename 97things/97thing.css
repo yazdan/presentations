@@ -6,6 +6,7 @@ body {
     text-align: center;
     font-family: IRANSans;
     background-color: #3C99B6;
+    background-image: url("images/bk.png");
    
 }
 
@@ -30,6 +31,8 @@ h1, h2, h3, h4 {
     margin-top: 0.3em;
     direction:rtl;
     border-radius: 10px;
+    width: 98%;
+    margin-left: 1%;
 }
 
 tt {
@@ -85,7 +88,17 @@ h2 {
 }
 
 .step {
-    width: 1024px;
+    width: 1600px;
+    min-height: 700px;
+    max-height: 980px;
+    background-color: rgba(93, 93, 93, 0.5);
+    border-radius: 20px;
+    overflow: hidden;  
+}
+
+
+.step.justheader {
+    min-height: initial;
 }
 
 
