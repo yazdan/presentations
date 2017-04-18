@@ -2,26 +2,26 @@
 :author: عباس یزدان پناه
 :description: این ارائه در رویداد هکوان در تاریخ ۱۹ اسفند ارائه شده است
 :keywords: presentation, hackone, fintechfest, mvp, pretotyping
-:css: hackone.css
+:css: trigup.css
 
 ----
+
+:data-x: r2000 
+:class: titlepage
+:class: justheader
 
 .. raw:: html
 
 	<h2>باسمه تعالی</h2>
 
 
-کمینه محصول پذیرفتنی
+پیش‌نمونه‌سازی یا pre-prototyping
 =========================================================
 
 عباس یزدان‌پناه 
 ------------------------------
 
-.. image:: images/hackone.png
-	:width: 500px
 
-.. image:: images/noavari.png
-	:width: 500px
 
 
 ----
@@ -83,7 +83,7 @@
 
 .. image:: images/ibm_speech.jpg
 	:width: 400px
-	:class: left-image
+
 
 
 
@@ -259,6 +259,8 @@
 
 ----
 
+:class: justheader
+:class: lastpage
 
 بروید و بسازید
 ========================
@@ -266,15 +268,15 @@
 
 ----
 
+:class: justheader
+:class: lastpage
 
-fintechfest.ir - pretotyping.ir
+trigup.ir - pretotyping.ir
 ================================
 
-.. image:: images/hackone.png
-	:width: 500px
+باتشکر
+-------------------
 
-.. image:: images/noavari.png
-	:width: 500px
 
 .. raw:: html
 	
