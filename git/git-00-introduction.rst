@@ -21,7 +21,7 @@
 عباس یزدان‌پناه 
 ------------------------------
 
-.. image:: images/FaraDars-Header-A.png
+
 
 
 
@@ -319,7 +319,7 @@ Bazaar
 abzy.ir
 ================================
 
-.. image:: images/FaraDars-Header-A.png
+
 
 .. raw:: html
 	
