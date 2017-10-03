@@ -1,5 +1,5 @@
-@import url(../fonts/css/fontiran.css);
-@import url(../fonts/css/hugofont.css);
+@import url(./fonts/css/fontiran.css);
+@import url(./fonts/css/hugofont.css);
 
 body {
     font-size: 200%;
@@ -87,13 +87,28 @@ h2 {
     background-color: #05e676;
 }
 
-.step {
-    width: 1600px;
-    min-height: 700px;
-    max-height: 980px;
-    background-color: rgba(93, 93, 93, 0.5);
-    border-radius: 20px;
-    overflow: hidden;  
+
+@media only screen and (min-width: 1360px) {
+    .step {
+        width: 1138px;
+        min-height: 700px;
+        max-height: 980px;
+        background-color: rgba(93, 93, 93, 0.5);
+        border-radius: 20px;
+        overflow: hidden;  
+    }
+}
+
+
+@media only screen and (min-width: 1920px) {
+    .step {
+        width: 1600px;
+        min-height: 700px;
+        max-height: 980px;
+        background-color: rgba(93, 93, 93, 0.5);
+        border-radius: 20px;
+        overflow: hidden;  
+    }
 }
 
 
