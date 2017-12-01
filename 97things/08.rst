@@ -6,6 +6,8 @@
 
 ----
 
+:data-x: r2000
+
 .. raw:: html
 
 	<h2>باسمه تعالی</h2>
@@ -34,7 +36,7 @@ The Boy Scout Rule
 -----------------------
 by Uncle Bob
 ------------------
-فصل‌هایی که من با اونها آشنا بودم اول ضبط شدن. ازتون دعوت میکنم هر کدوم رو دوست داشتید ضبط کنید.
+فصل‌ها به ترتیب ضبط نشدن و اونهایی که باهاشون برخورد داشتم، اول ضبط شدن.
 
 ----
 
@@ -89,9 +91,13 @@ by Uncle Bob
 
 ----
 
+:class: justheader
+
 تیم‌ها بخاطر خوب بودن «قانون دسته پیشاهنگی» برای همه اعضا، از آن پیروی میکنند، نه برای خودشان
 =============================================================================================
 ----
+
+:class: justheader
 
 
 blog.abyz.ir
@@ -103,7 +109,7 @@ blog.abyz.ir
 .. raw:: html
 	
 	<div>
-	<a href="http://twitter.com/disiresal" class="icon-twitter icon-2x"></a>disiresal
+	<a href="http://twitter.com/yazdanpanha" class="icon-twitter icon-2x"></a>yazdanpanaha
 
 	</div>
 
