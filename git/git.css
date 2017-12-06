@@ -19,10 +19,12 @@ p {
 }
 
 pre {
-    text-align: left;
+    text-align: center;
     background-color: rgba(240,234,230,0.5);
     border-radius: 10px;
     padding: 10px;
+    font-size: 50px;
+    direction: ltr;
 }
 
 h1, h2, h3, h4 {
@@ -175,4 +177,8 @@ dl {
 ::selection {
   background: steelblue;
   color: white;
+}
+
+.step.justheader {
+    min-height: initial;
 }
