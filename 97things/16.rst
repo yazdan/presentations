@@ -72,7 +72,7 @@ by Cal Evans - Kevlin Henney
 
 .. image:: images/worst-comment.gif
 	:width: 900px
-	:class: left-image
+
 
 
 
@@ -107,8 +107,7 @@ by Cal Evans - Kevlin Henney
 
 
 .. image:: images/khat_sevon.jpg
-	:width: 500px
-	:class: left-image
+	:width: 300px
 
 
 
