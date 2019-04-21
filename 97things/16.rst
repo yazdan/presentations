@@ -52,11 +52,13 @@ by Cal Evans - Kevlin Henney
 تجربه شخصی
 ============
 
-- داستان نویسنده
+- کدهایی که بعد از مدتی دیگر قابل فهم نیستند!
 - نگهداری کد دیگران
 - خواندن کدهای متن باز
 
-
+.. image:: images/future_self.png
+	:width: 310px
+	:class: left-image
 
 
 
