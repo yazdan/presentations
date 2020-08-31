@@ -1,0 +1,184 @@
+@import url(./fonts/css/fontiran.css);
+@import url(./fonts/css/hugofont.css);
+
+body {
+    font-size: 200%;
+    text-align: center;
+    font-family: IRANSans;
+    background-color: #607D8B;
+    background-image: url("images/bk2.png");
+   
+}
+
+p {
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    text-align: right;
+    direction:rtl;
+}
+
+pre {
+    text-align: left;
+    background-color: rgba(240,234,230,0.5);
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 50px;
+    direction: ltr;
+}
+
+h1, h2, h3, h4 {
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    direction:rtl;
+    border-radius: 10px;
+    width: 98%;
+    margin-left: 1%;
+}
+
+tt {
+    font-size: 125;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+li {
+    font-family: IRANSans;
+    font-weight: normal;
+    margin-bottom: 0.3em;
+    margin-top: 0.3em;
+    padding-left: 0.3em;
+    line-height: 1.8em;
+    text-align: right;
+}
+
+ol {
+	direction:rtl
+}
+
+ul {
+	direction:rtl
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.hidden {
+    display: none;
+}
+
+img {
+    border-radius: 10px;
+    border-color: #F0EAE6;
+    border-width: 1px;
+    border-style: solid;
+}
+
+h1 {
+    background-color: #232323;
+    color:rgb(255,255,255);
+}
+
+
+.step {
+    width: 1600px;
+    min-height: 700px;
+    max-height: 980px;
+    background-color: rgba(96, 173, 213, 0.5);
+    border-radius: 20px;
+    overflow: hidden;    
+}
+
+
+.left-image {
+	position: absolute;
+	top: 170px;
+	left: 10px;
+	
+
+}
+
+dl {
+	margin-top: 0;
+	display: inline-table;
+	width:90%
+}
+
+
+.step table {
+  width: 100%;
+  max-width: 1200px;
+  height: 320px;
+  border-collapse: collapse;
+  border: 1px solid #38678f;
+  margin: 50px auto;
+  background: white;
+}
+.step th {
+  background: steelblue;
+  height: 54px;
+  width: 25%;
+  font-weight: lighter;
+  text-shadow: 0 1px 0 #38678f;
+  color: white;
+  border: 1px solid #38678f;
+  box-shadow: inset 0px 1px 2px #568ebd;
+  transition: all 0.2s;
+}
+.step tr {
+  border-bottom: 1px solid #cccccc;
+}
+.step tr:last-child {
+  border-bottom: 0px;
+}
+.step td {
+  border-right: 1px solid #cccccc;
+  padding: 10px;
+  transition: all 0.2s;
+}
+.step td:last-child {
+  border-right: 0px;
+}
+.step td.selected {
+  background: #d7e4ef;
+  z-index: ;
+}
+.step td input {
+  font-size: 14px;
+  background: none;
+  outline: none;
+  border: 0;
+  display: table-cell;
+  height: 100%;
+  width: 100%;
+}
+.step td input:focus {
+  box-shadow: 0 1px 0 steelblue;
+  color: steelblue;
+}
+
+.step th p {
+  text-align: center;
+}
+
+.step td p {
+  text-align: center;
+}
+
+::-moz-selection {
+  background: steelblue;
+  color: white;
+}
+::selection {
+  background: steelblue;
+  color: white;
+}
+
+.step.justheader {
+    min-height: initial;
+}
