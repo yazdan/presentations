@@ -4,7 +4,7 @@
 body {
     font-size: 200%;
     text-align: center;
-    font-family: IRANSans;
+    font-family: IRANSansX;
     background-color: #3C99B6;
     background-image: url("images/bk.png");
    
@@ -44,7 +44,7 @@ ul {
 }
 
 li {
-    font-family: IRANSans;
+    font-family: IRANSansX;
     font-weight: normal;
     margin-bottom: 0.3em;
     margin-top: 0.3em;
